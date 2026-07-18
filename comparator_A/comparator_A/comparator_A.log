@@ -1,0 +1,48 @@
+T-Spice - Tanner SPICE
+Version 2019.2
+License validated.
+Product Release ID: T-Spice Win64 2019.2.20190514.20:23:23
+Copyright (C)1988-2019 Mentor, a Siemens Business
+
+Input folder         = C:\Users\MK\Documents\MC_Project\comparator_A\
+Output folder        = C:\Users\MK\Documents\MC_Project\comparator_A\comparator_A
+
+	Parsing "C:\Users\MK\Documents\MC_Project\comparator_A\comparator_A.sp"
+	Including "C:\Users\MK\Documents\MC_Project\comparator_A\mosistsmc180.lib"
+
+Start of comparator_A.sp
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+
+General options:
+        threads = 1
+
+Output options:
+          nomod = 1                      post = 2
+
+Probing options:
+         probev = 1
+
+ Device and node counts:
+              MOSFETs -      20
+    MOSFET geometries -       4
+           Capacitors -       3
+      Voltage sources -       3
+   Subckt Definitions -       4
+     Subckt Instances -       5
+     Unique Instances -       3
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -      10
+       Boundary nodes -       4
+          Total nodes -      14
+
+	Opening simulation database "C:\Users\MK\Documents\MC_Project\comparator_A\comparator_A.tsim"
+
+Setup                        0.03 seconds
+Transient Analysis           0.46 seconds
+Output                       0.04 seconds
+Overhead                     0.73 seconds
+-----------------------------------------
+Total                        1.26 seconds
+
+Simulation completed

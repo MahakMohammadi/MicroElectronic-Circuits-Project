@@ -1,0 +1,19 @@
+Measurement Results
+   charge            = -304.1104f      
+   energy            =  547.3987f      
+   tpLH_LessThan     =       not found
+   tpHL_LessThan     =       not found
+   tp_LessThan       =       not found
+   trise_LessThan    =       not found
+   tfall_LessThan    =       not found
+   tpLH_Equal        =  178.6021p      
+   tpHL_Equal        =  198.1809p      
+   tp_Equal          =  188.3915p      
+   trise_Equal       =  188.5126p      
+   tfall_Equal       =  137.6413p      
+   tpLH_GreaterThan  =  157.0475p      
+   tpHL_GreaterThan  =   75.3402p      
+   tp_GreaterThan    =  116.1939p      
+   trise_GreaterThan =  215.2329p      
+   tfall_GreaterThan =   93.3407p      
+

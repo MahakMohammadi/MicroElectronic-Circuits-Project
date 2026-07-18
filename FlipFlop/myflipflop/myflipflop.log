@@ -1,0 +1,61 @@
+T-Spice - Tanner SPICE
+Version 2019.2
+License validated.
+Product Release ID: T-Spice Win64 2019.2.20190514.20:23:23
+Copyright (C)1988-2019 Mentor, a Siemens Business
+
+Input folder         = C:\Users\MK\Documents\MC_Project\FlipFlop\
+Output folder        = C:\Users\MK\Documents\MC_Project\FlipFlop\myflipflop
+
+	Parsing "C:\Users\MK\Documents\MC_Project\FlipFlop\myflipflop.sp"
+	Including "C:\Users\MK\Documents\MC_Project\FlipFlop\mosistsmc180.lib"
+
+Start of myflipflop.sp
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+
+Model Evaluation options:
+          scale = 9e-08
+
+General options:
+        threads = 1
+
+Output options:
+          nomod = 1                      post = 2
+
+Probing options:
+         probev = 1
+
+ Device and node counts:
+              MOSFETs -      18
+    MOSFET geometries -       4
+           Capacitors -       1
+      Voltage sources -       4
+   Subckt Definitions -       3
+     Subckt Instances -       7
+     Unique Instances -       3
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -       9
+       Boundary nodes -       5
+          Total nodes -      14
+
+	Opening simulation database "C:\Users\MK\Documents\MC_Project\FlipFlop\myflipflop.tsim"
+
+Measure information will be written to file "C:\Users\MK\Documents\MC_Project\FlipFlop\myflipflop\myflipflop.measure"
+
+Measurement result summary
+   tpLH            =  324.5739p      
+   tpHL            =  328.7787p      
+   tp_avg          =  326.6763p      
+
+
+Parsing                      0.07 seconds
+Setup                        0.04 seconds
+DC operating point           0.01 seconds
+Transient Analysis           0.14 seconds
+Output                       0.02 seconds
+Overhead                     0.87 seconds
+-----------------------------------------
+Total                        1.15 seconds
+
+Simulation completed
